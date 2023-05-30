@@ -20,7 +20,7 @@ Maybe tkinter should be installed separately, for example in Ubuntu:
 
 ## screenshot
 
-![Screenshot (Ubuntu)](./screenshot.pnt "Screenshot (Ubuntu)")
+![Screenshot (Ubuntu)](./screenshot.png "Screenshot (Ubuntu)")
 
 ## bugs
 
